@@ -2,11 +2,7 @@ package Game;
 
 
 //Git test
-//Branch 1
-<<<<<<< HEAD
-//333
-=======
->>>>>>> origin/master
+
 
 
 
